@@ -9,6 +9,7 @@ list_of_files = [
     f"src/ingestion/__init__.py",
     f"src/processing/__init__.py",
     f"src/config/__init__.py",
+    f"src/__init__.py",
 ]
 
 list_of_directories = [
